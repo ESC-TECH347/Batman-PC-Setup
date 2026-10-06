@@ -4,10 +4,10 @@
       "key": "BATMAN",
       "name": "Batman",
       "pcs": {
-        "PC1": { "label": "Bat Computer 1", "path1": "batman-tv-1.msp" },
-        "PC2": { "label": "Bat Computer 2", "path1": "batman-tv-2.msp" },
-        "PC3": { "label": "Batsuit", "path1": "batman-batsuit.msp" },
-        "PC4": { "label": "Laugh O Matic", "path1": "batman-laugh-o-matic.msp" }
+        "PC1": {"label": "Bat Computer 1", "path1": "batman-tv-1.msp"},
+        "PC2": {"label": "Bat Computer 2", "path1": "batman-tv-2.msp"},
+        "PC3": {"label": "Batsuit", "path1": "batman-batsuit.msp", "portrait": true},
+        "PC4": {"label": "Laugh O Matic", "path1": "batman-laugh-o-matic.msp", "portrait": true}
       }
     }
   ]
