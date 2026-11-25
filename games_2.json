@@ -1,0 +1,15 @@
+{
+  "m3Ip": "192.168.6.110",
+  "games": [
+    {
+      "key": "BATMAN",
+      "name": "Batman",
+      "pcs": {
+        "PC1": {"label": "Bat Computer 1 (touchscreen)", "path1": "bat-com-1.msp"},
+        "PC2": {"label": "Bat Computer 2 (keyboard)", "path1": "bat-com-2.msp"},
+        "PC3": {"label": "Batsuit", "path1": "bat-suit.msp", "portrait": true},
+        "PC4": {"label": "Laugh O Matic", "path1": "laugh-o-matic.msp", "portrait": true}
+      }
+    }
+  ]
+}
